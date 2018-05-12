@@ -1,4 +1,8 @@
 _repo: La-maison-des-hommes-vivants_49293
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49293-h/images/cover.jpg
 creator:
   author:
     agent_name: Farrère, Claude
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3805
     wikipedia: http://en.wikipedia.org/wiki/Claude_Farrère
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49293#La-maison-des-hommes-vivants
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2015-06-27'
 gutenberg_type: Text
